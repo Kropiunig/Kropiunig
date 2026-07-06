@@ -1,7 +1,5 @@
-![](assets/header.svg)
+### Open-source contributions
 
-Merged into the stack you run — [Hugging Face](https://github.com/huggingface) · [scikit-learn](https://github.com/scikit-learn) · [pydantic](https://github.com/pydantic) · [Ray](https://github.com/ray-project) · [CoW Protocol](https://github.com/cowprotocol) · [viem](https://github.com/wevm) · [Uniswap](https://github.com/Uniswap) · [Safe](https://github.com/safe-global)
+Merged fixes into libraries the ecosystem runs on — pydantic, scikit-learn, transformers (Hugging Face), ray, litellm, CoW Protocol, viem. Around twenty merged pull requests.
 
-![](https://raw.githubusercontent.com/Kropiunig/Kropiunig/output/github-snake-dark.svg)
-
-![](metrics.isocalendar.svg)
+Focus: agentic / multi-agent systems, evals, and onchain.
